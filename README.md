@@ -1,4 +1,4 @@
-# Project: Predicting continental origin from genomic information on Chromosome 1. Is Machine Learning racist?
+##  Predicting continental origin from genomic information on Chromosome 1. Is Machine Learning racist?
 -------------------------------------------------------------------------------
 Repository for the Machine Learning predictor of the continental origin using SNP data. 
 Project for the Machine Learning course (VU University Amsterdam).
