@@ -1,5 +1,4 @@
-#  Predicting continental origin 
-#  from genomic information on human Chromosome 1 
+#  Predicting continental origin from genomic information on human Chromosome 1 
 #### Is Machine Learning racist?
 -------------------------------------------------------------------------------
 Repository for the Machine Learning course (VU University, 2017)
